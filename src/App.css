@@ -1,0 +1,78 @@
+body{
+  background-image: url(../bg/bg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form-login{
+  font-family: 'Poppins', sans-serif;
+  border: 1px solid grey;
+  height:330px;
+  width: 400px;
+  border-radius: 9px;
+  margin-top: 150px;
+  background-color: white;
+}
+input{
+  margin-bottom: 20px;
+  width: 200px;
+  height: 35px;
+}
+.login-btn{
+  border: none;
+  color: white;
+  background-color: rgb(64, 64, 245);
+  height: 30px;
+  width: 100px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.login-btn:hover{
+  background-color: blue;
+  height: 35px;
+  width: 120px;
+}
+.sup-btn{
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  font-size: 15px;
+}
+.sup-btn:hover{
+  color: blue;
+}
+.form-signup{
+  font-family: 'Poppins', sans-serif;
+    border: 1px solid grey;
+    height: 430px;
+    width: 400px;
+    border-radius: 9px;
+    margin-top: 150px;
+    background-color: white;
+}
+.signup-btn{
+  border: none;
+    color: white;
+    background-color: rgb(64, 64, 245);
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.signup-btn:hover{
+  background-color: blue;
+  height: 35px;
+  width: 120px;
+}
+.log-btn{
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  font-size: 15px;
+}
+.log-btn:hover{
+  color: blue;
+}
